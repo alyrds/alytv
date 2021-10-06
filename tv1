@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TV9.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="",TV9 (720p)
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",TV Alhijrah (480p) [Not 24/7]
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
